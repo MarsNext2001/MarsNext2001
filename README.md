@@ -32,7 +32,7 @@ I'm always interested in:
 - Collaborating on interesting projects
 - Discussing AI and technology trends
 - Contributing to open source initiatives
-- Sharing knowledge and learning from the community
+
 
 Feel free to explore my repositories, and don't hesitate to reach out if you'd like to connect or collaborate!
 
